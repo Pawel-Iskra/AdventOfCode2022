@@ -27,4 +27,9 @@ my solutions for puzzles
       <td><a href="https://adventofcode.com/2022/day/4">Camp Cleanup</td>
       <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day04/CampCleanup.java">Part1 & Part2</a></td> 
    </tr>
+ <tr align="center" vlign="middle">
+      <td>05</td>
+      <td><a href="https://adventofcode.com/2022/day/5">Supply Stacks</td>
+      <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day05/SupplyStacks.java">Part1 & Part2</a></td> 
+   </tr>
    </table>

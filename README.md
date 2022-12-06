@@ -32,4 +32,9 @@ my solutions for puzzles
       <td><a href="https://adventofcode.com/2022/day/5">Supply Stacks</td>
       <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day05/SupplyStacks.java">Part1 & Part2</a></td> 
    </tr>
+   <tr align="center" vlign="middle">
+      <td>06</td>
+      <td><a href="https://adventofcode.com/2022/day/6">Tuning Trouble</td>
+      <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day06/TuningTrouble.java">Part1 & Part2</a></td> 
+   </tr>
    </table>

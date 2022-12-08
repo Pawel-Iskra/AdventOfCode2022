@@ -37,4 +37,14 @@ my solutions for puzzles
       <td><a href="https://adventofcode.com/2022/day/6">Tuning Trouble</td>
       <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day06/TuningTrouble.java">Part1 & Part2</a></td> 
    </tr>
+    <tr align="center" vlign="middle">
+      <td>07</td>
+      <td><a href="https://adventofcode.com/2022/day/7">No Space Left On Device</td>
+      <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day07/NoSpaceLeftOnDevice.java">Part1 & Part2</a></td> 
+   </tr>
+    <tr align="center" vlign="middle">
+      <td>08</td>
+      <td><a href="https://adventofcode.com/2022/day/8">Treetop Tree Housee</td>
+      <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day08/TreetopTreeHouse.java">Part1 & Part2</a></td> 
+   </tr>
    </table>

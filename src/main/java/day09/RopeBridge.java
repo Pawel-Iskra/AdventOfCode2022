@@ -81,7 +81,7 @@ public class RopeBridge {
         return positionHead;
     }
 
-    private static long getResultForPartOneRules(List<String> inputLines, int lengthOfTail, int sizeOfGridForRope) {
+    private static long getNumberOfPositionsThatTailVisitedAtLeastOnce(List<String> inputLines, int lengthOfTail, int sizeOfGridForRope) {
         int[][] grid = new int[sizeOfGridForRope][sizeOfGridForRope];
         int startX = sizeOfGridForRope / 2;
         int startY = sizeOfGridForRope / 2;
@@ -114,7 +114,7 @@ public class RopeBridge {
         String pathToInputFile = "src/main/resources/day09/input.txt";
         List<String> inputLines = MyUtilities.getInputLines(pathToInputFile);
 
-        System.out.println("Part 1 = " + getResultForPartOneRules(inputLines, 1, 1000));
-        System.out.println("Part 1 = " + getResultForPartOneRules(inputLines, 9, 1000));
+        System.out.println("Part 1 = " + getNumberOfPositionsThatTailVisitedAtLeastOnce(inputLines, 1, 1000));
+        System.out.println("Part 1 = " + getNumberOfPositionsThatTailVisitedAtLeastOnce(inputLines, 9, 1000));
     }
 }

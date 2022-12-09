@@ -47,4 +47,9 @@ my solutions for puzzles
       <td><a href="https://adventofcode.com/2022/day/8">Treetop Tree Housee</td>
       <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day08/TreetopTreeHouse.java">Part1 & Part2</a></td> 
    </tr>
+    <tr align="center" vlign="middle">
+      <td>09</td>
+      <td><a href="https://adventofcode.com/2022/day/9">Rope Bridgee</td>
+      <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day09/RopeBridge.java">Part1 & Part2</a></td> 
+   </tr>
    </table>

@@ -25,7 +25,7 @@ public class CathodeRayTube {
             this.currentCommandIndex = 0;
         }
 
-        private void drawOnePixel(char[][] crtImage, int currentCycle, int valueX) {
+        private void drawOnePixel(char[][] crtImage, int currentCycle) {
             int crtColumns = crtImage[0].length;
             int spriteStart = valueX - 1;
             int spriteEnd = valueX + 1;
@@ -66,7 +66,7 @@ public class CathodeRayTube {
             else if ("addx".equals(command)) cyclesRequiredForCommandCounter = 2;
 
             while (++currentCycle <= numOfClockTicks) {
-                drawOnePixel(crtImage, currentCycle, valueX);
+                drawOnePixel(crtImage, currentCycle);
 
                 if (currentCycle == currentInterestingCycle) {
                     signalStrengths.add(valueX * currentInterestingCycle);

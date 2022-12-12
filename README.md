@@ -62,4 +62,9 @@ my solutions for puzzles
       <td><a href="https://adventofcode.com/2022/day/11">Monkey in the Middlee</td>
       <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day11/MonkeyInTheMiddle.java">Part1 & Part2</a></td> 
    </tr>
+     <tr align="center" vlign="middle">
+      <td>12</td>
+      <td><a href="https://adventofcode.com/2022/day/12">Hill Climbing Algorithm</td>
+      <td><a href="https://github.com/Pawel-Iskra/AdventOfCode2022/blob/master/src/main/java/day12/HillClimbingAlgorithm.java">Part1 & Part2</a></td> 
+   </tr>
    </table>
